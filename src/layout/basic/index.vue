@@ -24,7 +24,7 @@
     { key: 'home', icon: 'home' },
     { key: 'list', icon: 'horizontal' },
     { key: 'member', icon: 'my' },
-    { key: 'demo', icon: 'location' },
+    // { key: 'demo', icon: 'location' },
   ];
 
   const router = useRouter();
